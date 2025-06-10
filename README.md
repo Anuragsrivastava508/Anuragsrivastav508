@@ -2,8 +2,8 @@
    
 
 ## Who I am -
-
-<img align="right" alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" />
+<img alt="Coder GIF" align ="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+             
 # 💫 About Me:
 
 - 🎓 **Education:** BCA, Final Year in Computer Science  
