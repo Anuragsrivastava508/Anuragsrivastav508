@@ -79,13 +79,9 @@
 
 <!-- ════════════ 👁️ VISITOR COUNT ════════════ -->
 
-<h4 align="left"> 𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
-<p align="left">
-    <img src="https://profile-counter.glitch.me/Anuragsrivastav508
-/count.svg" />
-</p>
 
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Profile Visitors
+[![Visitor Count](https://profile-counter.glitch.me/Anuragsrivastav508/count.svg)](https://github.com/Anuragsrivastav508)
 ---
 
 ## ✍️ Dev Quote:
