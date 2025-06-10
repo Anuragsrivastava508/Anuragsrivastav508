@@ -1,11 +1,26 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=A8F1FF&vCenter=true&lines=Full+Stack+Web+Developer!;Self-Taught+Software+Engineer!;Committed+to+Continuous+Learning!;Open+Source+Contributor!)](https://git.io/typing-svg)
+   
+
+## Who I am -
+
+<img align="right" alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" />
 # 💫 About Me:
+
 - 🎓 **Education:** BCA, Final Year in Computer Science  
+
 - 🌱 **Currently Learning:** Full Stack Web Development (MERN), Operating Systems & DSA with Java  
+
 - 💬 **Ask Me About:** HTML, CSS, JavaScript, React & Bootstrap  
+
 - ⚡ **Fun Fact:** Tech enthusiast with a passion for programming and innovation  
+
+- 🌐 Open Source Contributor at Social Summer of Code 2025
+
 - 📍 **Location:** Varanasi, Uttar Pradesh, India  
 
----
+ 
+
+----
 
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anurag%20srivastava) 
@@ -40,6 +55,19 @@
 
 ---
 
+
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</p>
+
+
+
+
+
 ## 📈 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anuragsrivastava508&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200"/>  
@@ -49,10 +77,23 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Anuragsrivastava508&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ════════════ 👁️ VISITOR COUNT ════════════ -->
+
+<h4 align="left"> 𝘝𝘪𝘴𝘪𝘵𝘰𝘳𝘴 𝘊𝘰𝘶𝘯𝘵</h4>
+<p align="left">
+    <img src="https://profile-counter.glitch.me/Anuragsrivastav508
+/count.svg" />
+</p>
+
 
 ---
 
 ## ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
+
+
